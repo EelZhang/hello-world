@@ -1,2 +1,4 @@
 # hello-world
-Test
+Test;
+Learn to commit;
+Learn to merge a pull request;
